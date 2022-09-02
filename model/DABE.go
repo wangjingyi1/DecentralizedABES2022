@@ -6,7 +6,7 @@ import (
 	"hash"
 
 	"github.com/Nik-U/pbc"
-	"github.com/wangjingyi1/DABES2022/model/AES"
+	"github.com/wangjingyi1/DecentralizedABES2022/model/AES"
 )
 
 type DABE struct {
